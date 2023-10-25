@@ -1,0 +1,9 @@
+{
+    "name": "Coupon",
+    "location": "coupon",
+    "namespace": "Plugin\\Coupon\\",
+    "version": "2.0.2",
+    "author": "Themelooks",
+    "url": "http://www.themelooks.com/",
+    "description": "Coupon plugin of Tl-commerce"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Pickup Point",
+    "location": "pickuppoint",
+    "namespace": "Plugin\\PickupPoint\\",
+    "version": "2.0.2",
+    "author": "Themelooks",
+    "url": "http://www.themelooks.com/",
+    "description": "Pickup Point plugin of Tl-commerce"
+}
